@@ -1,88 +1,87 @@
-<h2 align="left">Hi 👋! My name is Shivam and I'm a Software Developer, from India...</h2>
+# 👋 Hi there, I'm Shivam Maurya!
 
-###
+I'm a passionate **Backend Developer** with 1+ year of experience in building scalable systems that serve 10K+ concurrent users. I specialize in **Python**, **Django**, **Flask**, and **microservices architecture**, with strong hands-on skills in performance optimization, real-time systems, and secure API development.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thissupershivam1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thissupershivam1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🔧 Tech Stack
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFnc29zaWoybmk4Y2g4d2F5YnR1cHUzMnQycXQ0a3M3eHUybWp0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
+**Languages:**  
+`Python` `C++` `JavaScript` `SQL` `TypeScript`
 
-###
+**Backend:**  
+`Flask` `Django` `Node.js` `Express.js` `Redis` `Kafka` `JWT` `REST APIs`
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-</div>
+**Frontend:**  
+`React.js` `Next.js` `Redux` `Tailwind CSS` `HTML/CSS`
 
-###
+**Databases:**  
+`MySQL` `MongoDB` `Redis`
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+**DevOps & Cloud:**  
+`Docker` `Kubernetes` `AWS`
 
-###
+**Tools:**  
+`Git` `Postman` `Agile` `GitHub`
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/thissupershivam1/thissupershivam1/output/snake.svg" alt="Snake animation" />
+## 🚀 Projects
 
-###
+### 📸 [Reactogram](https://github.com/thissupershivam1/reactogram_backend/tree/master)
+A scalable Instagram-like app  
+- 🔐 Reduced login support queries by 40% with token-based authentication  
+- 🚀 Improved backend API scalability by 40% using Node.js & MongoDB  
+- ☁️ Deployed on Render with 99.9% uptime
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/thissupershivam1/count.svg?"  />
-</div>
+### 🍔 [FoodHunt](https://github.com/thissupershivam1/FoodHunt-shivam)
+An intuitive food delivery app  
+- 🔎 Fast search with React/Redux, boosting speed by 30%  
+- 🛒 Enhanced cart responsiveness using efficient state management
 
-###
+### 📺 [YouTube App](https://github.com/thissupershivam1/namaste-youtube)
+YouTube clone with real-time chat  
+- 🔍 Reduced search latency by 30% via debouncing + caching  
+- 💬 Real-time chat increased engagement by 40%
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thissupershivam1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thissupershivam1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 💼 Work Experience
 
-<img src="https://raw.githubusercontent.com/thissupershivam1/thissupershivam1/output/snake.svg" alt="Snake animation" />
+**🔹 Python Developer | Bytesview Analytics**  
+📍 Noida | 🗓️ Jul 2024 – Present  
+- Built a real-time notification system using Redis Pub/Sub & RQ (2s latency)
+- Optimized subscription backend for 10K+ daily webhooks, reducing payment failures by 25%
+- Implemented JWT authentication and rate-limiting to cut unauthorized access by 35%
 
-###
+**🔹 Python Developer Trainee | Bytesview Analytics**  
+🗓️ Feb 2024 – Jun 2024  
+- Built hierarchical symptom checker using tree data structures  
+- Created scalable Flask APIs and Django dashboards
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+---
 
-###
+## 🏆 Achievements
+
+- 🌍 Ranked **Top 7%** globally (Rank **#1951**) in LeetCode Weekly Contest 380  
+- 🧠 Solved **1000+ DSA problems** on LeetCode & GeeksforGeeks
+
+---
+
+## 🎓 Education
+
+**B.Tech in Information Technology**  
+JSS Academy of Technical Education, Noida (2020 - 2024)  
+📈 GPA: 8.42
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [shivam675maur@gmail.com](mailto:shivam675maur@gmail.com)  
+- 🔗 LinkedIn: [supershivam](https://www.linkedin.com/in/supershivam)  
+- 💻 GitHub: [@thissupershivam1](https://github.com/thissupershivam1)
+
+---
+
+_Thanks for stopping by! Feel free to explore my repos and reach out for collaboration or exciting opportunities._ 🚀
